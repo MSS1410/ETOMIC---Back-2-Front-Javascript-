@@ -42,7 +42,7 @@ INSTALACION
 
 git clone : https://github.com/MSS1410/ETOMIC---Back-2-Front-Javascript-.git
 
-cd: ETOMIC - ELECTRONIC TECHNO EVENTS
+cd: EVENTOS BTF
 
 - DEPENDENCIAS (backend):
 
@@ -72,7 +72,7 @@ npm start
 USO DEL PROYECTO (Interfaz Web)
 Acceso a la Aplicación:
 
-Abre el navegador y ve a http://localhost:3050 (o el puerto configurado). Se mostrará la página de login.
+Abre el navegador y ve a http://localhost:3050 (o http://localhost:${PORT}). Se mostrará la página de login.
 
 Credenciales de Prueba:
 
@@ -129,7 +129,7 @@ ESTRUCTURA DEL PROYECTO
 NOTAS:
 
 
-- Este proyecto me ha llevado muchisimo tiempo. Siento que he aprendido mucho, a la vez que me he peleado como simio contra platano que no abre.
+- Este proyecto me ha llevado muchisimo tiempo. Siento que he aprendido mucho, a la vez que me he peleado como nunca antes.
 Siento que me ha quemado un poco y lo cojo con desgana, en mi opinion para que el proyecto sea completo faltaria generar:
 
 
