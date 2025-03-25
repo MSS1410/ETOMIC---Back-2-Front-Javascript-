@@ -18,37 +18,37 @@ Tecnologías Utilizadas
 
   Backend:
 
--Node.js
+- Node.js
 
--Express
+- Express
 
--MongoDB y Mongoose
+- MongoDB y Mongoose
 
--JWT para autenticación
+- JWT para autenticación
 
--Cloudinary para almacenamiento de imágenes
+- Cloudinary para almacenamiento de imágenes
 
 
   Frontend:
 
--HTML5, CSS3 y JavaScript
+- HTML5, CSS3 y JavaScript
 
--Swiper para sliders y galerías
+- Swiper para sliders y galerías
 
 
 INSTALACION
 
-1- CLONAR REPOSITORIO:
+- CLONAR REPOSITORIO:
 
-git clone : 
+git clone : https://github.com/MSS1410/ETOMIC---Back-2-Front-Javascript-.git
 
 cd: ETOMIC - ELECTRONIC TECHNO EVENTS
 
-2- DEPENDENCIAS (backend):
+- DEPENDENCIAS (backend):
 
 npm install
 
-3- CONFIGURAR VARIABLES DE ENTORNO
+- CONFIGURAR VARIABLES DE ENTORNO
 
 Crea un archivo .env en la raíz del proyecto y configura las siguientes variables: 
 
@@ -63,7 +63,7 @@ CLOUDINARY_API_SECRET=9OQEmUlLu9pMon8oNcX-uP62_Ho
 
 PORT=3050
 
-4- EJECUTAR SERVIDOR
+- EJECUTAR SERVIDOR
 
 npm start
 
